@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  padding: 0;
+}
+.Present{
+  background-color:green !important;
+  width:100%;
+  height:100%;
+}
+.Absent{
+  background-color:red !important;
+  width:100%;
+  height:100%;
+}
